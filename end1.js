@@ -27,7 +27,7 @@ function oneClick(params) {
         alert('Đăng nhập thất bại!')
         //mở file html buổi 10.html
         alert('Có vẻ bạn đã sai chỗ nào đấy(email cần @ ,mật khẩu cần 6 kí tự trở lên)')
-        window.location.href ='end1.html'
+        window.location.href ='index.html'
 
     }
 }

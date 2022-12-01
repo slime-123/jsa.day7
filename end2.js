@@ -261,7 +261,7 @@ function myFunction() {
   function myDrop2(){
 	// window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
 	window.location.href ='test1.html'
-	// window.location.href('D:\lập trình\bài cuối khóa lập trình JSB07\end1.html')
+	// window.location.href('D:\lập trình\bài cuối khóa lập trình JSB07\index.html')
   }
   const btnQuery = document.querySelector('btn1');
   function backTomain(){
@@ -290,7 +290,7 @@ function myFunction() {
   }
   const logoutquery = document.querySelector('logout')
   function logoutButton(){
-	window.location.href='end1.html'
+	window.location.href='index.html'
   }
   const backquery = document.querySelector('btn1')
   function backTomain(){
